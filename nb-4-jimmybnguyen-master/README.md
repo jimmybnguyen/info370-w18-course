@@ -1,0 +1,2 @@
+# Notebook Set 4
+Notebooks on linear and Poisson regression using data on Faculty salaries. Note, to view the described graphs, see the `part-N.html` files. These are most easily viewed by creating a local server in your repository (i.e., `live-server`), or simply opening up the `.html` file using a web browser.
